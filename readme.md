@@ -1,5 +1,4 @@
 
-```markdown
 # Jenkins CI/CD Pipeline with Maven, GitHub, and Tomcat
 
 This guide documents the setup and deployment process of a CI/CD pipeline using Jenkins, Maven, GitHub, and Tomcat. It also covers the configuration of a Jenkins master-slave architecture for distributed builds.
