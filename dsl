@@ -23,7 +23,7 @@ job('SimpleWebApp-CICD') {
     steps {
         maven {
             goals('clean package')
-            mavenInstallation('Maven 3') // Make sure this name matches the Maven installation in Jenkins
+            mavenInstallation('Maven 3') // Make sure this name matches your Maven installation in Jenkins
         }
     }
 
